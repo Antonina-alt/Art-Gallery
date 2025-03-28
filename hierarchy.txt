@@ -1,0 +1,6 @@
+Artwork
+├── Painting
+│   ├── ModernPainting
+│   └── ClassicPainting
+├── Sculpture
+└── Photograph
